@@ -1,0 +1,3 @@
+Airline Safety Executive Summary Presentation
+
+In preparation for an executive committee presentation, I created a slide deck featuring six charts to transparently compare the safety of air travel with automobile travel. The presentation aimed to foster trust in our airline while avoiding any misrepresentation of data. Key visuals included a line chart showing the rise in air travel popularity pre-pandemic and contrasting fatality rates for both transportation methods, highlighting the superior safety odds of flying. A tree map illustrated that our fictional airline does not belong to the category of high-fatality operators, and I concluded with marketing recommendations to address negative publicity and improve customer confidence. 
