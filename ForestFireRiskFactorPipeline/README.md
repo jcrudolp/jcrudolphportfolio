@@ -1,3 +1,3 @@
-Forest Fire Risk Factor Pipeline 
+## Forest Fire Risk Factor Pipeline 
 
 For this project, I explored the factors affecting the total burned area of forest fires in Portugal, recognizing the significant environmental and economic challenges posed by these incidents. Utilizing the Forest Fires dataset from the UCI Machine Learning Repository, I implemented a robust data pipeline with NiFi for ingestion, HDFS for storage, Hive for warehousing, and Spark for processing. The dataset includes 13 variables such as spatial coordinates, weather conditions, and fire indices, which are crucial for understanding fire severity. Despite some challenges with data transfer and null values in the Hive table, I successfully queried the data to analyze patterns and insights related to forest fire occurrences. 
