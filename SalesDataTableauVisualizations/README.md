@@ -1,4 +1,4 @@
-Tableau Exploration of Sales Data 
+## Tableau Exploration of Sales Data 
 
 In this assignment, I created several visualizations in Tableau to analyze sales and profitability data. A side-by-side bar chart compared the total price of items sold against their profit, revealing that while beer and popcorn had equal sales, popcorn was significantly more profitable. A highlight table ranked items by total profit, showcasing popcorn as the top performer, with beer trailing at 62.5% of its profit. I also used horizontal bars to display average calories by category, indicating that hot food had the highest average calories, while beverages were the lowest. Finally, a treemap illustrated the most popular selling items, identifying beer as the top seller and ice cream sandwiches as the least, despite pizza’s high sales rank despite low profitability. Consistent gradient color schemes were employed throughout for clarity and cohesion. 
  
